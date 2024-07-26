@@ -8,3 +8,10 @@ I renamed it to "VRpaint" because otherwise i get problem with copyright stuff
 
 The Tilt Brush trademark and logo (“Tilt Brush Trademarks”) are trademarks of
 Google
+
+## How to build
+
+### Requirements:
+1: Untiy 2018.4.11f1
+2: SteamVR
+
